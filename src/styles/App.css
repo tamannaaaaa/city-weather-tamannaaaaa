@@ -1,1 +1,30 @@
-
+.app {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .search {
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px;
+  }
+  
+  button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .weather {
+    margin-top: 20px;
+  }
+  
+  .weather img {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .error {
+    color: red;
+  }
+  
